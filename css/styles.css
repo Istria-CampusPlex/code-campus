@@ -1,0 +1,39 @@
+body
+{
+    font-family: 'Oswald', sans-serif;
+    background-color: rgb(235, 235, 235)
+}
+
+#banner
+{
+    border-width:1px;
+    border-color:black;
+    border-style: solid;
+    position: fixed;
+    height:80px;
+    width:100%;
+    background-color:white;
+    color: orange;
+    position: absolute;
+    bottom:0;
+    text-align: center;
+    
+}
+
+#map-container
+{
+    border-style: solid;
+    border-color:black;
+    border-width: 1px;
+    position:fixed;
+}
+
+#map
+{
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    width: 90%;
+    height: 450px;
+    float: left;
+}
