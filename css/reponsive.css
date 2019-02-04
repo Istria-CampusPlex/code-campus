@@ -1,0 +1,11 @@
+@media screen and (max-width: 699px)
+{
+    border-width:1px;
+    border-color:black;
+    border-style: solid;
+    position: fixed;
+    height:80px;
+    width:100%;
+    background-color:white;
+    color:orange;
+}
